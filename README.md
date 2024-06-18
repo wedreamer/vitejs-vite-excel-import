@@ -12,7 +12,7 @@ npm run dev
 
 ## 相关依赖
 
-- 路由
+- react-router-dom
 - antd，@ant-design/pro-components，@ant-design/icons
 - class-transformer, class-validator
 - xlsx
